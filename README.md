@@ -1,10 +1,8 @@
-# BScProject
-
-# Multi-Input Model for RNA Sequence Feature Learning
+# Multi-Input Model for RNA Sequence Interaction Prediction
 
 ## Introduction
 
-This repository contains a multi-input neural network model that learns features from RNA transcript sequences. The model processes two separate RNA sequence inputs, extracts features through convolutional layers, and then combines them to predict associated labels through fully connected layers.
+This repository contains a multi-input neural network model that predicts if two RNA sequences have interaction.
 
 ## Model Architecture
 
